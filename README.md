@@ -43,4 +43,4 @@ An internship to kickstart my career as a developer! I'm eager to learn, contrib
 
 ### ⚡ Fun fact
 
-I love the nostalgic feel of old-school websites and the creativity of the early internet days. That's why [my personal website](https://www.yourwebsite.com) aims to recreate that vibe! (Not available yet!)
+I love the nostalgic feel of old-school websites and the creativity of the early internet days. That's why my personal website aims to recreate that vibe! (Not available yet!)
